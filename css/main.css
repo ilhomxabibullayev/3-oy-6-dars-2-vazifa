@@ -1,0 +1,16 @@
+table, th, td {
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #eee;
+}
+
+td, th {
+  padding: 10px 50px 10px 10px;
+  border: none;
+}
+
+tr:nth-child(even) {
+  background-color: #eee;
+}/*# sourceMappingURL=main.css.map */
